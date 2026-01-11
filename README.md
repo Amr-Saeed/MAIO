@@ -1,4 +1,10 @@
-# MAIO - Medical Appointment Integration Online
+# MAIO - Medical ALL IN ONE
+
+## 🚀 LIVE DEMO
+👉 **https://maio-iryo.vercel.app/**
+
+## 🛠️ ADMIN DASHBOARD (Next.js)
+👉 **https://github.com/Amr-Saeed/MAIO-DahBoard**
 
 A comprehensive healthcare platform frontend enabling seamless appointment booking, medical history management, secure payments, and real-time doctor-patient communication.
 
